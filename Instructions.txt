@@ -1,0 +1,2 @@
+copy and past the directory to your respective localhost directory. eg for xampp u shoud paste it in the htdocs.
+Launch your browser and type "localhost/android-notepad/index.html" as the address
